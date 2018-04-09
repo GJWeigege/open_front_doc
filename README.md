@@ -18,5 +18,11 @@
 
 6. 其他： 以上模块之外的其他文档。
 
+# 地址
+
+文档地址为：
+
+[https://github.com/GJWeigege/open\_front\_doc](https://github.com/GJWeigege/open_front_doc "GitHub地址")
+
 
 
