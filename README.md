@@ -24,5 +24,9 @@
 
 [https://github.com/GJWeigege/open\_front\_doc](https://github.com/GJWeigege/open_front_doc "GitHub地址")
 
+# 操作过程
 
+## 安装
+
+执行`gitbook init`
 
