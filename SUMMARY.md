@@ -1,9 +1,10 @@
 # Summary
 
 * [介绍](README.md)
+* [基础架构](ji-chu-jia-gou.md)
 * [开发流程](chapter1/README.md)
-    * [Section1.1](chapter1/section1.1.md)
-    * [Section1.2](chapter1/section1.2.md)
+  * [Section1.1](chapter1/section1.1.md)
+  * [Section1.2](chapter1/section1.2.md)
 * [虚机信息](chapter2/README.md)
 * [内部组件](chapter3/README.md)
 * [组内平台](chapter4/README.md)
