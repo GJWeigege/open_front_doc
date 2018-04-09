@@ -30,15 +30,13 @@
 
 执行 `$ npm install gitbook -g` 安装gitbook
 
-初始化
+## 初始化
 
 执行 `$ gitbook init` 初始化项目
 
-发布
+## 发布
 
 执行 `$ gitbook serve` 发布项目
 
-并访问 http://localhost:4000 预览效果
-
-
+并访问 [http://localhost:4000](http://localhost:4000) 预览效果
 
